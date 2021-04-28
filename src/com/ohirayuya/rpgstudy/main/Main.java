@@ -2,6 +2,6 @@ package com.ohirayuya.rpgstudy.main;
 
 public class Main {
 	public static void main(String arg[]) {
-		System.out.println("HelloGit!");		
+		System.out.println("HelloGitHub!");		
 	}
 }
